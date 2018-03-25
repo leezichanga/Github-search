@@ -23,5 +23,6 @@ Angular, HTML, CSS, Bootsrap
 
 ## Copyright and licence
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
 © Elizabeth Ichang'a | Credits Moringa School
 

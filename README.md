@@ -1,27 +1,28 @@
 # GithubSearch
+Developer: Elizabeth Wangui
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+Project name: Github Search
 
-## Development server
+## Description
+This is a website where user can search for other github users and view their repositories.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Setup and installation
+A browser
 
-## Code scaffolding
+Good internet connection
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Install angular CLI
 
-## Build
+A text editor
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Link to deployed site
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Technologies used
+Angular, HTML, CSS, Bootsrap
 
-## Running end-to-end tests
+## Copyright and licence
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+© Elizabeth Ichang'a | Credits Moringa School
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).

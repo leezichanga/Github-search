@@ -9,7 +9,7 @@ describe('GithubService', () => {
     });
   });
 
-  it('should be created', inject([GithubService], (service: GithubService) => {
+  it('should be created', inject([GithubService], (service: GithubPageService) => {
     expect(service).toBeTruthy();
   }));
 });

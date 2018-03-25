@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+    color:#04204c;
+  font-family: sans-serif;
+  font-style: oblique;
+  font-size: 80px;
+}
+h2 {
+    color:#049191;
+  text-align: left;
+}
+h4 {
+  color: #0b2470;
+}
+h3{
+    color:#049191;
+}
+.jumbotron {
+  background-color: #c9d6d6;
+
+}
+button{
+  background-color: #39aeb5;
+  color: white;
+}
+/* .page {
+  background-color: #d9dbd2;
+} */

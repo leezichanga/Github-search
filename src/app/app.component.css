@@ -1,12 +1,12 @@
 h1{
   text-align: center;
-    color:#04204c;
+        color:#049191;
   font-family: sans-serif;
   font-style: oblique;
   font-size: 80px;
 }
 h2 {
-    color:#049191;
+        color:#04204c;
   text-align: left;
 }
 h4 {
@@ -15,14 +15,18 @@ h4 {
 h3{
     color:#049191;
 }
+h5{
+  color: #0e0e0f;
+}
 .jumbotron {
   background-color: #c9d6d6;
+  background: transparent;
 
 }
 button{
   background-color: #39aeb5;
   color: white;
 }
-/* .page {
-  background-color: #d9dbd2;
-} */
+.page {
+  background-color: #b794b4;
+}

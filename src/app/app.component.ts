@@ -10,7 +10,7 @@
 // }
 import { Component } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { GithubPageService } from './githubpage/github.service';
+import { GithubService } from './githubpage/github.service';
 import { FormsModule } from '@angular/forms';
 
 @Component({
@@ -19,7 +19,7 @@ import { FormsModule } from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  constructor(private http: HttpClient, private _githubService: GithubPageService) { }
+  constructor(private http: HttpClient, private _githubService: GithubService) { }
   username:string;
   users: any = [];
   githubData: any = [];
